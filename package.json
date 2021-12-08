@@ -1,0 +1,19 @@
+{
+  "name": "xx-command-kill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kill",
+    "port",
+    "command"
+  ],
+  "author": "Marvin <huo_marvin@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kill-port": "^1.6.1"
+  }
+}
